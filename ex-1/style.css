@@ -1,1 +1,15 @@
 /* start coding here */
+.registration-form {
+    display: flex;
+    height: 50px;
+    width: 240px;
+    border-radius: 3px;
+    align-items: center;
+    gap: 10px;
+}
+
+
+button {
+    background-color: khaki;
+    border-color: lightgrey;
+}
